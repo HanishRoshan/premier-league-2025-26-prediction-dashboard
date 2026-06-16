@@ -43,7 +43,22 @@ The Power BI dashboard is organised into five pages:
 3. **Form & Momentum** — a form table and a trend-coloured chart showing which teams are improving, stable, or declining.
 4. **Relegation Battle** — danger-zone table, a wins/draws/losses breakdown of the bottom six, and gauges showing each predicted relegated team's points against the survival line.
 5. **Match Explorer** — an interactive page with a team slicer that filters every match (home and away) plus goals scored/conceded for the selected team.
+## Dashboard Preview
 
+### 1. Championship Overview
+![Championship Overview](screenshots/01-championship-overview.png)
+
+### 2. Consistency Analysis
+![Consistency Analysis](screenshots/02-consistency-analysis.png)
+
+### 3. Form & Momentum
+![Form and Momentum](screenshots/03-form-momentum.png)
+
+### 4. Relegation Battle
+![Relegation Battle](screenshots/04-relegation-battle.png)
+
+### 5. Match Explorer
+![Match Explorer](screenshots/05-match-explorer.png)
 ## Tech Stack
 
 - **Python** (pandas) — data processing and metric engineering
