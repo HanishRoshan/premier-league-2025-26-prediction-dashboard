@@ -1,0 +1,44 @@
+{
+  "name": "Premier League Purple",
+  "dataColors": [
+    "#37003C",
+    "#00FF85",
+    "#E90052",
+    "#7A2E8E",
+    "#A050B0",
+    "#04F5FF",
+    "#FFFFFF",
+    "#963CFF",
+    "#5A0A5F",
+    "#C8A2C8"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#37003C",
+  "tableAccent": "#E90052",
+  "good": "#00FF85",
+  "neutral": "#FFB800",
+  "bad": "#E90052",
+  "maximum": "#37003C",
+  "center": "#A050B0",
+  "minimum": "#F2E6F4",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#37003C" } },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI Semibold",
+            "alignment": "center"
+          }
+        ],
+        "background": [
+          { "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }
+        ],
+        "border": [
+          { "show": true, "color": { "solid": { "color": "#37003C" } }, "radius": 6 }
+        ]
+      }
+    }
+  }
+}
